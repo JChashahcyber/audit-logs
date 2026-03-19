@@ -1,7 +1,8 @@
 # Viewing and Interpreting Audit Logs in Microsoft Azure's Entra ID <p align="center">
 
 
-<img width="600" height="400" alt="image" src="https://github.com/userattachments/assets/14806b36-bc52-44a8-a825-615241d884e0" />
+<img width="780" height="297" alt="image" src="https://github.com/user-attachments/assets/ed7841a5-b316-40c8-ab51-5a9b3beb1942" />
+
 </p>
 
 
